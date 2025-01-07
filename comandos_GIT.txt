@@ -1,0 +1,38 @@
+comandos de GIT
+
+	1:ls
+		Este te muestra todos los documentos de la carpeta o directorio en la que te encuentras
+	
+	2:pwd
+		Este te muestra el directorio en el que te encuentras
+	
+	3:cd	
+		con este puedes escoger a que directorio ir
+	
+	4:mkdir
+		con este puedes crear una carpeta en el directorio en el que te encuentras 
+	
+	5:git init
+		con este podemos inicializar un repositorio en la dirección en la que nos encontramos creando una carpeta ocullta
+		
+	6:ls -a
+		con este podemos observar también los archivos ocultos
+	
+	7:cd ..
+		podemos devolvernos a un directorio anterior
+
+	8:git config --global user.name "nombre"
+		con este escogemos el nombre de nuestro usuario
+
+	9:git config --global user.email "correo"
+		con este escogemos nuestro usuario
+	
+	10:git status
+		para ver que documentos han sido guardados
+	
+	11:git add .
+		añade todos los archivos dentro de el comit o carpeta
+
+	12:git add nombre de el archivo junto al tipo ejemplo 
+		documento.txt
+		
