@@ -35,4 +35,6 @@ comandos de GIT
 
 	12:git add nombre de el archivo junto al tipo ejemplo 
 		documento.txt
+
+	
 		
