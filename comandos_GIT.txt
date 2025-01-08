@@ -47,8 +47,29 @@ comandos de GIT
 	
 	16:git commit
 		guardar todas la aaciones
+		
+	17:git restore 
+		recupera los documentos que aun no se han subido a stage
+
+	18:git log
+		con este podemos observar todos los commits echos
+
+	19:git log --oneline
+		con este observamos los commits echos pero en pequeño y resumido
+
+	 20:git branch
+		para ver en que rama estoy
+
+	21 git checkout -b nueva rama nombre	
+		para crear una nueva rama
+
+	22:cat
+		para ver que líneas de codigo hay en el archivo
+
+	23:git merge nobre de larama de la que queremos sacar los archivo
+		para traer archivos desde una rama a otra
+
+	24:git push
+		para pasar de commit y enviarlo a git hub
 
 	
-
-
-		
