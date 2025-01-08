@@ -36,5 +36,19 @@ comandos de GIT
 	12:git add nombre de el archivo junto al tipo ejemplo 
 		documento.txt
 
+	13:mv nombredeelarchivo   futuronombre
+		cambia el nombre de un archivo
+
+	14:rm 
+		eliminar archivos
+
+	15:git commit -m "accion"
+		comprometer o afirmar que se cumplio una accion
 	
+	16:git commit
+		guardar todas la aaciones
+
+	
+
+
 		
